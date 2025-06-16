@@ -8,3 +8,7 @@
 - **認証サービス**: Supabase Auth
 - **OAuth プロバイダー**: Google
 - **UI**: TypeScript + Tailwind CSS
+
+## 参考
+
+- https://www.youtube.com/watch?v=XgqCh2FwNVY
